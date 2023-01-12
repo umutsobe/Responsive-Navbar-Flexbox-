@@ -2,4 +2,5 @@
 
 # I have created a responsive navbar compatible with mobile and desktop. It will have a mobile view when the screen width is below 600px.
 
-![navbar2](https://user-images.githubusercontent.com/120561448/212112270-a9d15cf0-ae19-453a-b2c1-2cf7eaaf88a4.png)
+
+![navbar](https://user-images.githubusercontent.com/120561448/212115615-6bdb07d6-fe35-4f86-946b-0b9e5d0a2fe4.gif)
